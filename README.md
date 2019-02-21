@@ -23,5 +23,7 @@ Detecting Emotions from given pictures
   
   
   References:
+  
   https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
+  
   http://tamaszilagyi.com/blog/2019/2019-01-12-tensornets/
