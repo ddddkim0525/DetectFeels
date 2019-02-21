@@ -6,6 +6,7 @@ Detecting Emotions from given pictures
   Labeling: -1 if error, 0~6 refer to original mapping in the kaggle dataset.
   
   kaggle dataset : https://www.kaggle.com/c/facial-keypoints-detector
+  
 2. Face Detection and Extraction
   Module that detects and extract faces from the picture. Saves the transformed file. 
   There are quite a lot of dependencies, please use the openface.yml to setup the conda environment.
