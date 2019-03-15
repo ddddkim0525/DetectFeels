@@ -5,6 +5,8 @@ Detecting Emotions from given pictures
   A short python script to send kaggle dataset pictures to Face API. Training Results are sotred in prediction.txt.
   Labeling: -1 if error, 0~6 refer to original mapping in the kaggle dataset.
   
+  Face API performed 70% accuracy on the first 1100 photos of the small kaggle dataset.
+  
   kaggle dataset : https://www.kaggle.com/c/facial-keypoints-detector
   
 2. Face Detection and Extraction
